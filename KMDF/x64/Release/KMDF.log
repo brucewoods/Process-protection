@@ -1,0 +1,26 @@
+﻿  Building 'KMDF' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\KMDF.inf
+  Stamping [Version] section with DriverVer=01/31/2020,22.52.50.703
+  1.c
+g:\vs\process-protection-master\kmdf\1.c(6): warning C4100: “pRegistryString”: 未引用的形参
+g:\vs\process-protection-master\kmdf\1.c(8): warning C4189: “status”: 局部变量已初始化但不引用
+g:\vs\process-protection-master\kmdf\1.c(54): warning C4311: “类型强制转换”: 从“HANDLE”到“ULONG”的指针截断
+  KMDF.vcxproj -> G:\vs\Process-protection-master\x64\Release\KMDF.sys
+  Done Adding Additional Store
+  Successfully signed: G:\vs\Process-protection-master\x64\Release\KMDF.sys
+  
+  Driver is a Universal Driver.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  G:\vs\Process-protection-master\x64\Release\KMDF\kmdf.cat
+  Done Adding Additional Store
+  Successfully signed: G:\vs\Process-protection-master\x64\Release\KMDF\kmdf.cat
+  
